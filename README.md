@@ -37,7 +37,21 @@ Episode 1 – **अ से अनार**
 
 ---
 
-<pre> ## 📁 Repository Layout <code> / ├── README.md ├── LICENSE ├── Episode_1_अ_से_अनार/ │ ├── script.md │ ├── voice_links.txt │ ├── image_links.txt │ └── animation_notes.md ├── blog/ │ └── 01_building-hindi-phonics-pipeline.md ├── folder_structure.md </code> </pre>
+## Repository Layout
+
+```
+/
+├── README.md
+├── LICENSE
+├── Episode_1_अ_से_अनार/
+│   ├── script.md
+│   ├── voice_links.txt
+│   ├── image_links.txt
+│   └── animation_notes.md
+├── blog/
+│   └── 01_building-hindi-phonics-pipeline.md
+├── folder_structure.md
+```
 
 ---
 
